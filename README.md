@@ -1,4 +1,9 @@
-# Hacktoberfest ([Live Website](https://cesta-society.github.io/Hacktoberfest//)) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Hacktoberfest 2020
+This will guide you through the complete process of how to complete Hacktoberfest 2020 challenge.
+
+## Youtube Image Link
+
+[![img](https://github.com/kmranrg/Hacktoberfest_2020/blob/master/hacktoberfest2020_bg.jpg)](https://www.youtube.com/watch?v=PwdK0vxfUnw)
 
 
 This is a beginner-friendly project to help you get started with your
